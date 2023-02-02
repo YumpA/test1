@@ -7,3 +7,7 @@
 body {
     background-color: burlywood;
 }
+
+h1 {
+    border: solid 1px greenyellow;
+}
